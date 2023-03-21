@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# IPYNB
+*.ipynb_checkpoints
+
+# Data
+*Data/
